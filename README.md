@@ -72,7 +72,7 @@ ___
 
 <h2>🏆 Github Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=spyder15&column=8&theme=algolia&no-frame=true"/>
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=shadowYEM&column=8&theme=algolia&no-frame=true"/>
 </a>
 
 [![@spyder15's Holopin board](https://holopin.me/spyder15)](https://holopin.io/@spyder15)
@@ -84,7 +84,7 @@ ___
 
 
 ### 🐍 Watch Snake eating my contribution :
-![snake svg](https://github.com/shadowYEM/shadowYEM/blob/main/github-user-contribution.svg)
+![snake svg](https://github.com/shadowYEM/shadowYEM/blob/output/github-contribution-grid-snake.svg)
 
 
 
