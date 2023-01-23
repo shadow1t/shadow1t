@@ -33,7 +33,7 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 ![Visitor Count](https://profile-counter.glitch.me/priyanshumundra/count.svg) |
 
 ### 😺 Github Streak 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spyder15&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowYEM&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
 
 ### 🍁 My Skill stack :
 
@@ -72,7 +72,7 @@ ___
 
 <h2>🏆 Github Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=shadowYEM&column=8&theme=algolia&no-frame=true"/>
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=spyder15&column=8&theme=algolia&no-frame=true"/>
 </a>
 
 [![@spyder15's Holopin board](https://holopin.me/spyder15)](https://holopin.io/@spyder15)
