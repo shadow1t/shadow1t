@@ -75,7 +75,7 @@ ___
 
 
 ### 🐍 Watch Snake eating my contribution :
-![snake svg](https://github.com/shadowYEM/shadowYEM/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/shadowYEM/shadowYEM/blob/e8128c67d6f1dc57c5e98bfcc1d894a9d10d1129/github-user-contribution.svg)
 
 
 
