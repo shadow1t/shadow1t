@@ -1,6 +1,6 @@
 ## Hello, I'm [ Eng Rasheed .] :raised_hand_with_fingers_splayed:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A00&center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&repeat=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&width=435&lines=I+am+a+Data+Scientist+With+Python++also+a+Data+Science+Marketing+Analyst)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A00&center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&repeat=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&width=435&lines=I+am+a+Data+Scientist+With+Python++also+a+Data+Science+Marketing+Analyst" alt="Typing SVG" /></a>
 
 
 ## just a Introduction: 
