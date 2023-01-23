@@ -22,7 +22,7 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 
 ---
 
-[![Github Stats Graph]([https://activity-graph.herokuapp.com/graph?username=shadowYEM&theme=react-dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowYEM&theme=radical&hide_border=true))](https://github.com/shadowYEM)
+[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=shadowYEM&theme=react-dark)]
 
 
 ### 📊 Some Fun Stats:
