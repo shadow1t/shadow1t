@@ -17,20 +17,18 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 - 👋 Hi, I’m [Priyanshu ](https://google.com) AKA [Spyder](https://google.com) 🕷
 - 👀 I’m currently partcipating in as much Hackathons as I can...
 - 👀 I’m interested in Data Science, Full Stack Web Development
-- 🌱 Check out [My Blog](https://dev.to/spyder15) 
 - 💬 Ask me about anything, I am happy to help
 
 
 ---
 
-[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=spyder15&theme=react-dark)](https://github.com/Spyder15)
+[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=shadowYEM&theme=react-dark)](https://github.com/shadowYEM)
 
 
 ### 📊 Some Fun Stats:
 | ![image](https://github-readme-stats.vercel.app/api?username=shadowYEM&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spyder15&theme=midnight-purple) | 
 | --- | --- |
-😍 Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/priyanshumundra/count.svg) |
+
 
 ### 😺 Github Streak 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spyder15&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
