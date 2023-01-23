@@ -45,14 +45,7 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 ___  
 
 
-## Competitive Programming [here](https://www.google.com)
-- LeetCode : 60+ Problems (Data Structures and Algorithms)
-- Stopstalk Profile : All CP Profiles
-- CodeChef : 3 Star ⭐⭐⭐ 
-- Codeforces : Newbie 🤔
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=mundrapriyanshu15)
-                  
+ 
 
 ___  
 
