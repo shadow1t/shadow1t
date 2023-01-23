@@ -1,23 +1,11 @@
 ## Hello, I'm [Priyanshu Mundra .](https://www.google.com/search?q=priyanshu+mundra) :raised_hand_with_fingers_splayed:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Developer;Competitive+Coder;and+Community+manager)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A00&center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&repeat=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&width=435&lines=I+am+a+Data+Scientist+With+Python+;also+a+Data+Science+Marketing+Analyst)](https://git.io/typing-svg))](https://git.io/typing-svg)
     
 
 
 
 ## just a Introduction: 
-
-Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, India, currently 💻 doing my undergraduate BTECH from Lovely professional university and I am passionate about technology and want to learn & explore new technologies ,Beside's Computer Science, I love Coding, photography, Travelling and playing basketball.
-
-
-
-
-### Talking about Personal Stuffs :
-
-- 👋 Hi, I’m [Priyanshu ](https://google.com) AKA [Spyder](https://google.com) 🕷
-- 👀 I’m currently partcipating in as much Hackathons as I can...
-- 👀 I’m interested in Data Science, Full Stack Web Development
-- 💬 Ask me about anything, I am happy to help
 
 
 ---
