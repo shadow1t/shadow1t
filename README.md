@@ -27,13 +27,13 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 
 
 ### 📊 Some Fun Stats:
-| ![image](https://github-readme-stats.vercel.app/api?username=spyder15&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spyder15&theme=midnight-purple) | 
+| ![image]([https://github-readme-stats.vercel.app/api?username=spyder15&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=shadowYEM&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowYEM&theme=midnight-purple) | 
 | --- | --- |
 😍 Total Views on Profile:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/priyanshumundra/count.svg) |
 
 ### 😺 Github Streak 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowYEM&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spyder15&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
 
 ### 🍁 My Skill stack :
 
