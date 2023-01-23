@@ -22,7 +22,7 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 
 ---
 
-[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=shadowYEM&theme=react-dark)](https://github.com/shadowYEM)
+[![spyder github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowYEM&theme=dark&hide_border=true)](https://github.com/shadowYEM)
 
 
 ### 📊 Some Fun Stats:
@@ -44,6 +44,14 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 
 ___  
 
+
+## Competitive Programming [here](https://www.google.com)
+- LeetCode : 60+ Problems (Data Structures and Algorithms)
+- Stopstalk Profile : All CP Profiles
+- CodeChef : 3 Star ⭐⭐⭐ 
+- Codeforces : Newbie 🤔
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=mundrapriyanshu15)
                   
 
 ___  
